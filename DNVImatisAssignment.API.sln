@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNVImatisAssignment.API", "DNVImatisAssignment.API\DNVImatisAssignment.API.csproj", "{F92BCFD7-2866-4137-89BC-F64382D795CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92BCFD7-2866-4137-89BC-F64382D795CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92BCFD7-2866-4137-89BC-F64382D795CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92BCFD7-2866-4137-89BC-F64382D795CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92BCFD7-2866-4137-89BC-F64382D795CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E8F87B-90B4-43DE-B63B-C0C55CC74F80}
+	EndGlobalSection
+EndGlobal
